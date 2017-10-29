@@ -1,0 +1,18 @@
+{
+  "name": "vk-grabber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vk-grabber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "image-downloader": "^3.3.0",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "superagent": "^3.8.0"
+  }
+}
